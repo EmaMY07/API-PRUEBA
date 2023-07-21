@@ -1,0 +1,6 @@
+com\example\api\service\PersonaService.class
+com\example\api\service\PersonaServiceImpl.class
+com\example\api\ApiPersonaApplication.class
+com\example\api\controller\PersonaController.class
+com\example\api\repository\PersonaDAO.class
+com\example\api\entities\Persona.class
